@@ -11,5 +11,13 @@
   "devDependencies": {},
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C4m0mila/Projeto-Json-Server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/C4m0mila/Projeto-Json-Server/issues"
+  },
+  "homepage": "https://github.com/C4m0mila/Projeto-Json-Server#readme",
   "description": ""
 }
