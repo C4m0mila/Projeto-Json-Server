@@ -1,0 +1,156 @@
+{
+    "Acao":[
+        {
+            "nome":"Avatar: O Caminho da Água",
+            "diretor": "James Cameron",
+            "classificacao": "14 anos",
+            "distribuidora":"Walt Disney",
+            "duracao": "190 min",
+            "id": 1
+        },
+        {
+            "nome":"Pantera Negra 2",
+            "diretor": "Ryan Coogler",
+            "classificacao": "12 anos",
+            "distribuidora":"Walt Disney",
+            "duracao": "160 min",
+            "id": 2
+        },
+        {
+            "nome":"SHAZAM! Furia dos Deuses",
+            "diretor": "David F. Sandberg",
+            "classificacao": "12 anos",
+            "distribuidora":"Warner Bros Pictures",
+            "duracao": "130 min",
+            "id": 3
+        },
+        {
+            "nome":"Jogos Vorazes - A Cantiga dos Pássaros e das Serpentes",
+            "diretor": "Francis Lawrence",
+            "classificacao": "12 anos",
+            "distribuidora":"Lionsgate Filmes",
+            "duracao": "130 min",
+            "id": 4
+        }
+
+        
+    ],
+
+    "Terror":[
+        {
+            "nome":" A Morte do Demônio: A Ascensão",
+            "diretor": "Lee Cronin",
+            "classificacao": "16 anos",
+            "distribuidora":"Warner Bros Pictures",
+            "duracao": "120 min",
+            "id": 5
+        },
+        {
+            "nome":"M3gan",
+            "diretor": "Gerard Johnstone",
+            "classificacao": "16 anos",
+            "distribuidora":"Universal Pictures",
+            "duracao": "102 min",
+            "id": 6
+        },
+        {
+            "nome":"Terrifier 2",
+            "diretor": "Damien Leone",
+            "classificacao": "18 anos",
+            "distribuidora":"Imagem Filmes",
+            "duracao": "135 min",
+            "id": 7
+        },
+        {
+            "nome":"Panico 6",
+            "diretor": "Matt Bettinelli-Olpin e Tyler Gillett",
+            "classificacao": "14 anos",
+            "distribuidora":"Paramount Pictures",
+            "duracao": "118 min",
+            "id": 8
+        }
+    ],
+    
+    "Animacao":[
+        {
+            "nome":"Gato de Botas 2 O Último Pedido",
+            "diretor": "Joel Crawford, Januel",
+            "classificacao": "Livre",
+            "distribuidora":"Universal",
+            "duracao": "100 min",
+            "id":9
+        },
+        {
+            "nome":"Elemental",
+            "diretor": "Peter Sohn",
+            "classificacao": "Livre",
+            "distribuidora":"Walt Disney",
+            "duracao": "100 min",
+            "id":10
+        },
+        {
+            "nome":"Super Mario Bros - O Filme",
+            "diretor": "Aaron Horvath e Michael Jelenic",
+            "classificacao": "Livre",
+            "distribuidora":"Universal",
+            "duracao": "105 min",
+            "id":11
+        },
+        {
+            "nome":"Homem-Aranha: Através Do Aranhaverso - Parte 1",
+            "diretor": "Joaquim Dos Santos e Kemp Powers",
+            "classificacao": "Livre",
+            "distribuidora":"Sony Pictures",
+            "duracao": "115 min",
+            "id":12
+        }
+        
+    ],
+    
+    "Drama":[
+        {
+            "nome":"Império da Luz",
+            "diretor": "Sam Mendes",
+            "classificacao": "16 nos",
+            "distribuidora":"Walt Disney",
+            "duracao": "119 min",
+            "id":13
+        },
+        {
+            "nome":"Women Talking",
+            "diretor": "Sarah Polley",
+            "classificacao": "16 anos",
+            "distribuidora":"Universal Pictures",
+            "duracao": "104 min",
+            "id":14
+        },
+        {
+            "nome":"Tár",
+            "diretor": "Todd Field",
+            "classificacao": "16 anos",
+            "distribuidora":"Universal Pictures",
+            "duracao": "158 min",
+            "id":15
+        },
+        {
+            "nome":"Emily",
+            "diretor": "Frances O'Connor",
+            "classificacao": "14 anos",
+            "distribuidora":"Imagem Filmes",
+            "duracao": "130 min",
+            "id":16
+        }
+    ],
+
+    "Musical":[
+        {
+            "nome":"BTS: Yet To Come",
+            "diretor": "Yoon Dong Oh",
+            "classificacao": "Livre",
+            "distribuidora":"Cinemark Brasil S.A.",
+            "duracao": "100 min",
+            "id":17
+        }
+    ]
+    
+}
