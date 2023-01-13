@@ -43,7 +43,7 @@
             "classificacao": "16 anos",
             "distribuidora":"Warner Bros Pictures",
             "duracao": "120 min",
-            "id": 5
+            "id": 1
         },
         {
             "nome":"M3gan",
@@ -51,7 +51,7 @@
             "classificacao": "16 anos",
             "distribuidora":"Universal Pictures",
             "duracao": "102 min",
-            "id": 6
+            "id": 2
         },
         {
             "nome":"Terrifier 2",
@@ -59,7 +59,7 @@
             "classificacao": "18 anos",
             "distribuidora":"Imagem Filmes",
             "duracao": "135 min",
-            "id": 7
+            "id": 3
         },
         {
             "nome":"Panico 6",
@@ -67,7 +67,7 @@
             "classificacao": "14 anos",
             "distribuidora":"Paramount Pictures",
             "duracao": "118 min",
-            "id": 8
+            "id": 4
         }
     ],
     
@@ -78,7 +78,7 @@
             "classificacao": "Livre",
             "distribuidora":"Universal",
             "duracao": "100 min",
-            "id":9
+            "id":1
         },
         {
             "nome":"Elemental",
@@ -86,7 +86,7 @@
             "classificacao": "Livre",
             "distribuidora":"Walt Disney",
             "duracao": "100 min",
-            "id":10
+            "id":2
         },
         {
             "nome":"Super Mario Bros - O Filme",
@@ -94,7 +94,7 @@
             "classificacao": "Livre",
             "distribuidora":"Universal",
             "duracao": "105 min",
-            "id":11
+            "id":3
         },
         {
             "nome":"Homem-Aranha: Através Do Aranhaverso - Parte 1",
@@ -102,7 +102,7 @@
             "classificacao": "Livre",
             "distribuidora":"Sony Pictures",
             "duracao": "115 min",
-            "id":12
+            "id":4
         }
         
     ],
@@ -114,7 +114,7 @@
             "classificacao": "16 nos",
             "distribuidora":"Walt Disney",
             "duracao": "119 min",
-            "id":13
+            "id":1
         },
         {
             "nome":"Women Talking",
@@ -122,7 +122,7 @@
             "classificacao": "16 anos",
             "distribuidora":"Universal Pictures",
             "duracao": "104 min",
-            "id":14
+            "id":2
         },
         {
             "nome":"Tár",
@@ -130,7 +130,7 @@
             "classificacao": "16 anos",
             "distribuidora":"Universal Pictures",
             "duracao": "158 min",
-            "id":15
+            "id":3
         },
         {
             "nome":"Emily",
@@ -138,7 +138,7 @@
             "classificacao": "14 anos",
             "distribuidora":"Imagem Filmes",
             "duracao": "130 min",
-            "id":16
+            "id":4
         }
     ],
 
@@ -149,7 +149,7 @@
             "classificacao": "Livre",
             "distribuidora":"Cinemark Brasil S.A.",
             "duracao": "100 min",
-            "id":17
+            "id":1
         }
     ]
     
