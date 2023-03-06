@@ -9,10 +9,10 @@ DELETE.
 ➔ Seu Json-server deve ser capaz de inserir
 (POST), acessar os dados (GET), Atualizar um
 dado (PUT) e excluir um dado (DELETE) nas
-três ou mais rotas disponíveis. 
+três ou mais rotas disponíveis.<br>
 ➔ Cada uma das rotas deverá conter os
-métodos: GET, POST, PUT e DELETE
-➔ Cada rota deverá conter 4 ou mais dados.
+métodos: GET, POST, PUT e DELETE. <br>
+➔ Cada rota deverá conter 4 ou mais dados.<br>
 ➔ O Servidor deverá estar hospedado
 (deploy) no render.com ou em qualquer
 outro serviço de hospedagem.
