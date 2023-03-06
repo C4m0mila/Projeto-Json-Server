@@ -1,7 +1,5 @@
-# Projeto-Json-Server
-3º Projeto da Resília
-
-## DESAFIO:
+# Projeto-Json-Server 
+<h4>3º Projeto da Resília</h4><br>
 Desenvolver um servidor json (Json-server) onde
 irá conter 3 rotas com 4+ dados nas quais o
 usuário poderá realizar o GET, POST, PUT,
