@@ -16,3 +16,7 @@ métodos: GET, POST, PUT e DELETE. <br>
 ➔ O Servidor deverá estar hospedado
 (deploy) no render.com ou em qualquer
 outro serviço de hospedagem.
+
+Link render: 
+<a href="https://cinema-json.onrender.com/">Google</a>
+about:blank
