@@ -18,5 +18,4 @@ métodos: GET, POST, PUT e DELETE. <br>
 outro serviço de hospedagem.
 
 Link render: 
-<a href="https://cinema-json.onrender.com/">Google</a>
-about:blank
+<a href="https://cinema-json.onrender.com/"</a>
