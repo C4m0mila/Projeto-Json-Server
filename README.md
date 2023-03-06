@@ -17,5 +17,4 @@ métodos: GET, POST, PUT e DELETE. <br>
 (deploy) no render.com ou em qualquer
 outro serviço de hospedagem.
 
-Link render: 
-<a href="https://cinema-json.onrender.com/"</a>
+Link render: https://cinema-json.onrender.com/
